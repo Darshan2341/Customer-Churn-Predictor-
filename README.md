@@ -3,7 +3,7 @@
 > An end-to-end Machine Learning web app that predicts customer churn — built for freshers to showcase real Data Science & ML skills.
 
 ## 🚀 Live Demo
-👉 [Try it here](https://your-app-link.streamlit.app) ← replace after deploying
+👉 [Try it here](https://oduwgpwxwrtxq8zaeqjrsp.streamlit.app/)
 
 ---
 
