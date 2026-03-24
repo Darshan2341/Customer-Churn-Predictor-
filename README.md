@@ -5,7 +5,7 @@
 ## 🚀 Live Demo
 👉 [Try it here](https://oduwgpwxwrtxq8zaeqjrsp.streamlit.app/)
 
----
+----
 
 ## 📸 App Preview
 
